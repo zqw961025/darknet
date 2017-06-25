@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>25.jpg</filename>
+  <path>/home/zqw/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/25.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>650</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>phone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>353</xmin>
+      <ymin>11</ymin>
+      <xmax>479</xmax>
+      <ymax>252</ymax>
+    </bndbox>
+  </object>
+</annotation>
